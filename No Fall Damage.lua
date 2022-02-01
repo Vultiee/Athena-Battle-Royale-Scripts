@@ -1,1 +1,2 @@
-game:GetService("StarterPlayer").StarterCharacterScripts.FallDamage:Destroy()
+game:GetService("Workspace").ENTERUSERNAME.FallDamage:Destroy()
+-- Replace "ENTERUSERNAME" with your roblox username.
